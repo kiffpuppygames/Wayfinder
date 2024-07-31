@@ -1,0 +1,58 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "Wayfinder",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "30.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "Wayfinder",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		},
+		"experimental":
+		{
+			"sceneGraph":
+			{
+				"bIsSceneGraphSystemAllowed": true
+			},
+			"version": 1
+		},
+		"ugcLocalization":
+		{
+			"nativeCulture": "en",
+			"culturesToGenerate": [],
+			"poFormat": "Unreal"
+		}
+	},
+	"bindings":
+	{
+		"projectId": "dc6b31fd-4591-3d72-8708-63af53acaf5e",
+		"projectVersePath": "",
+		"modules":
+		{
+			"Wayfinder": "b602a32f-4e34-e390-a657-8a97be8107c1"
+		}
+	}
+}

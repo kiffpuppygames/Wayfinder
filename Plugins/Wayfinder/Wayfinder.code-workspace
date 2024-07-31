@@ -1,0 +1,56 @@
+{
+    "folders": [
+        {
+            "name": "Wayfinder",
+            "path": "D:/KiffPuppyGames/UEFN/Wayfinder/Wayfinder/Plugins/Wayfinder/Content"
+        },
+        {
+            "name": "Wayfinder/Assets",
+            "path": "C:/Users/chaosratel/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Wayfinder/Wayfinder-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/chaosratel/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Wayfinder/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/chaosratel/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Wayfinder/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/chaosratel/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Wayfinder/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/chaosratel/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Wayfinder/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
