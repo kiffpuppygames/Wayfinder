@@ -1,5 +1,5 @@
 
-ArrayHelper<public> := module:
+array_helper<public> := module:
     MergeSort<public>(Array:[]t, Compare(L:t, R:t)<decides><transacts>:t where t:type)<transacts>:[]t=
 
         Length:int = Array.Length
