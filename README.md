@@ -8,3 +8,11 @@ Currently the project does not behave as expected and it appears to be an issue 
 I believe that this implementation once complete could be used to create compelling gameplay.
 
 Thanks,
+
+# Planned Features:
+- Wave Function Collapse Funtionality
+- Full Generation (Walls, Floors Walls..)
+- Room Decoration
+- Traps
+
+...more to come...
